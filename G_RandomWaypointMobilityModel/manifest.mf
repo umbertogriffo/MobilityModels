@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: umberto.G_RandomWaypointMobilityModel
+OpenIDE-Module-Localizing-Bundle: umberto/G_RandomWaypointMobilityModel/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

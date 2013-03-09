@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: umberto.MobilitySimulatorInterface
+OpenIDE-Module-Localizing-Bundle: umberto/MobilitySimulatorInterface/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
