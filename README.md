@@ -19,8 +19,11 @@ http://netsrv.csc.ncsu.edu/export/routing_performance_mobmod_2008.pdf
 
 ![erdos](http://img820.imageshack.us/img820/3870/tlwij.jpg)
 
-# Demo on Vimeo
+# Demo video on Vimeo
 http://vimeo.com/45248043
+
+# More Info (available in Italian language)
+http://www.slideshare.net/umbertogriffo/validation-and-analysis-of-mobility-models-17078170
 
 # License
 The GPL version 3, http://www.gnu.org/licenses/gpl-3.0.txt
