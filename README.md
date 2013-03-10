@@ -2,7 +2,7 @@
 * Author: Umberto Griffo
 * Twitter: @UmbertoGriffo
 
-This plugin allows to generate graphs using Random Waypoint and Truncated Lévy Walk Mobility Models.
+This plugins allows to generate graphs using Random Waypoint and Truncated Lévy Walk Mobility Models.
 
 ### Random Waypoint
 Mobile nodes follow random directions with speed chosen randomly. 
