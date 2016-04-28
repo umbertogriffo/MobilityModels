@@ -9,7 +9,9 @@ Mobile nodes follow random directions with speed chosen randomly.
 The destination, speed and direction changes when waiting time is ended.
 
 http://en.wikipedia.org/wiki/Random_waypoint_model
-
+<p align="center">
+  <img src="https://github.com/umbertogriffo/MobilityModels/blob/master/random%20waypoint.JPG" width="350"/>
+</p>
 ![Random Waypoint](https://github.com/umbertogriffo/MobilityModels/blob/master/random%20waypoint.JPG =100x20)
 
 ### Truncated Lévy Walk
