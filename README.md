@@ -10,7 +10,7 @@ The destination, speed and direction changes when waiting time is ended.
 
 http://en.wikipedia.org/wiki/Random_waypoint_model
 
-![erdos](http://img818.imageshack.us/img818/9305/rwpw.jpg)
+![erdos](https://github.com/umbertogriffo/MobilityModels/blob/master/random%20waypoint.JPG)
 
 ### Truncated Lévy Walk
 The human walks are approximated with the Lévy walks.
