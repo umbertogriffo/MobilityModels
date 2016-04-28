@@ -17,7 +17,7 @@ The human walks are approximated with the Lévy walks.
 
 http://netsrv.csc.ncsu.edu/export/routing_performance_mobmod_2008.pdf
 
-![erdos](http://img820.imageshack.us/img820/3870/tlwij.jpg)
+![erdos](https://github.com/umbertogriffo/MobilityModels/blob/master/2000px-BrownianMotion.svg.png)
 
 # Demo video on Vimeo
 http://vimeo.com/45248043
