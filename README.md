@@ -12,14 +12,15 @@ http://en.wikipedia.org/wiki/Random_waypoint_model
 <p align="center">
   <img src="https://github.com/umbertogriffo/MobilityModels/blob/master/random%20waypoint.JPG" width="350"/>
 </p>
-![Random Waypoint](https://github.com/umbertogriffo/MobilityModels/blob/master/random%20waypoint.JPG =100x20)
 
 ### Truncated Lévy Walk
 The human walks are approximated with the Lévy walks.
 
 http://netsrv.csc.ncsu.edu/export/routing_performance_mobmod_2008.pdf
 
-![Truncated Lévy Walk](https://github.com/umbertogriffo/MobilityModels/blob/master/2000px-BrownianMotion.svg.png=100x20)
+<p align="center">
+  <img src="https://github.com/umbertogriffo/MobilityModels/blob/master/2000px-BrownianMotion.svg.png" width="350"/>
+</p>
 
 # Demo video on Vimeo
 http://vimeo.com/45248043
